@@ -4,7 +4,8 @@
       
       <v-col>
         <h1 class="display-2 font-weight-bold mb-3">
-          Bienvenido##
+          Bienvenido##<br>
+          MS19032, Martínez Santos William Oswaldo
         </h1>
 
         <p class="subheading font-weight-regular">
