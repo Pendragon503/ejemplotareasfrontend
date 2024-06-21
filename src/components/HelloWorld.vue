@@ -5,8 +5,9 @@
       <v-col>
         <h1 class="display-2 font-weight-bold mb-3">
           Bienvenido##<br>
-          MS19032, Martínez Santos William Oswaldo
+          
         </h1>
+        <h2>MS19032, Martínez Santos William Oswaldo</h2>
 
         <p class="subheading font-weight-regular">
           Front End del sistema de tareas,<br> para utilizar como ejemplo en las practicas de despliegue.
